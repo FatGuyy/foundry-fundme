@@ -1,3 +1,3 @@
 # foundry-fundme
 
-This is a funding contract made using foundry
+This is a funding contract made using foundry + Little playing with truffle
